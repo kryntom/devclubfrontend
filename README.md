@@ -9,6 +9,9 @@ That too i will update in a day or two.
 #HOW TO START
 
 Clone repo using code git clone https://github.com/kryntom/devclubfrontend Or fork repo and clone from your own repo.
+
 Get into repo directory cd devclubfrontend
+
 Install Dependencies npm install
-Make changes and run app using npm start
+
+run app using npm start
